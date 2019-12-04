@@ -2,3 +2,9 @@
 
 Novo ambiente de dev
 
+## Install
+
+```
+    npm install
+```
+
